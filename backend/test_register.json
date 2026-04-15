@@ -1,0 +1,12 @@
+{
+  "full_name": "Test User",
+  "email": "test@example.com",
+  "password": "password123",
+  "age": 30,
+  "weight": 70.5,
+  "height": 175.0,
+  "medical_history": "None",
+  "activity_level": "Moderate",
+  "dietary_goal": "Weight Loss",
+  "diet_type": "Balanced"
+}
